@@ -18,7 +18,7 @@ In order to earn an A, each team must write a total of seven blog posts (one pos
 
 Schedule of Sessions:
 
-* Product + Management (Jan 29)
+* [Product + Management](https://github.com/cornelltech/product-management/wiki#session-1-product--management) (Jan 29)
 * Product + Strategy (Feb 5)
 * Product + Design (Feb 12)
 * Product + Development (March 5)
