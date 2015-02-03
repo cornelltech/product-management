@@ -16,7 +16,7 @@ Grading:
 
 In order to earn an A, each team must write a total of seven blog posts (one post for each of the seven sessions), as described above. Attendance and participation are required. Students are allowed one unexcused absence.
 
-Schedule of Sessions:
+Syllabus:
 
 * [Product + Management](https://github.com/cornelltech/product-management/wiki#session-1-product--management) (Jan 29)
 * Product + Strategy (Feb 5)
