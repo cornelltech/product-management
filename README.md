@@ -19,9 +19,9 @@ In order to earn an A, each team must write a total of seven blog posts (one pos
 Syllabus:
 
 * [Product + Management](https://github.com/cornelltech/product-management/wiki#session-1-product--management) (Jan 29)
-* Product + Strategy (Feb 5)
-* Product + Design (Feb 12)
-* Product + Development (March 5)
-* Product + Productivity (March 12)
-* Product + Data (April 9)
-* Product + The World (April 16)
+* [Product + Strategy](https://github.com/cornelltech/product-management/wiki#session-2-product--strategy) (Feb 5)
+* [Product + Design](https://github.com/cornelltech/product-management/wiki#session-3-product--design) (Feb 12)
+* [Product + Development](https://github.com/cornelltech/product-management/wiki#session-4-product--development) (March 5)
+* [Product + Productivity](https://github.com/cornelltech/product-management/wiki#session-5-product--productivity) (March 12)
+* [Product + Data](https://github.com/cornelltech/product-management/wiki#session-6-product--data) (April 9)
+* [Product + The World](https://github.com/cornelltech/product-management/wiki#session-7-product--the-world) (April 16)
