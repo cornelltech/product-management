@@ -14,7 +14,7 @@ Student responsibilities:
 
 Grading:
 
-In order to earn an A, each team must write a total of seven blog posts (one post for each of the seven sessions), as described above. Attendance and participation are required. Students are allowed one unexcused absence.
+In order to earn an A, each team must write at least seven blog posts (one post for each of the seven sessions), as described above. Attendance and participation are required. Students are allowed one unexcused absence.
 
 Syllabus:
 
