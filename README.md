@@ -24,4 +24,4 @@ Syllabus:
 * [Product + Priorities](https://github.com/cornelltech/product-management/wiki#session-4-product--priorities) (March 5)
 * [Product + Progress](https://github.com/cornelltech/product-management/wiki#session-5-product--progress) (March 12)
 * [Product + Data](https://github.com/cornelltech/product-management/wiki#session-6-product--data) (April 9)
-* [Product + The World](https://github.com/cornelltech/product-management/wiki#session-7-product--the-world) (April 16)
+* [Product + Product Managers](https://github.com/cornelltech/product-management/wiki#session-7-product--product-managers) (April 16)
