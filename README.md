@@ -25,7 +25,7 @@ Grades are assigned according to the following:
 
 Schedule of Sessions:
 
-* [Product + Management](https://github.com/cornelltech/product-management/wiki#session-1-product--management) (Feb 4)
+1. [Product + Management](https://github.com/cornelltech/product-management/wiki#session-1-product--management) (Feb 4)
 * [Product + Data](https://github.com/cornelltech/product-management/wiki#session-2-product--data) (Feb 11)
 * [Product + Design](https://github.com/cornelltech/product-management/wiki#session-3-product--design) (Feb 18)
 * [Product + Development I](https://github.com/cornelltech/product-management/wiki#session-4-product--development-part-i-a-new-code) (March 3) 
