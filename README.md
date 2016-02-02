@@ -25,13 +25,13 @@ Grades are assigned according to the following:
 
 Schedule of Sessions:
 
-1. [Product + Management](https://github.com/cornelltech/product-management/wiki#session-1-product--management) (Feb 4)
-* [Product + Data](https://github.com/cornelltech/product-management/wiki#session-2-product--data) (Feb 11)
-* [Product + Design](https://github.com/cornelltech/product-management/wiki#session-3-product--design) (Feb 18)
+1. [Product + Management](https://github.com/cornelltech/product-management/wiki#session-1-product--management-the-phantom-pm) (Feb 4)
+* [Product + Data](https://github.com/cornelltech/product-management/wiki#session-2-product--data-attack-of-the-data) (Feb 11)
+* [Product + Design](https://github.com/cornelltech/product-management/wiki#session-3-product--design-revenge-of-the-users) (Feb 18)
 * [Product + Development I](https://github.com/cornelltech/product-management/wiki#session-4-product--development-part-i-a-new-code) (March 3) 
 * [Product + Development II](https://github.com/cornelltech/product-management/wiki#session-5-product--development-ii-the-code-strikes-back) (March 17)
-* [Product + Devleopment III](https://github.com/cornelltech/product-management/wiki#session-6-product--development-iii) (April 14)
-* [Product + Product Managers](https://github.com/cornelltech/product-management/wiki#session-7-product--product-managers) (April 28)
+* [Product + Devleopment III](https://github.com/cornelltech/product-management/wiki#session-6-product--development-iii-return-of-the-pm) (April 14)
+* [Product + Product Managers](https://github.com/cornelltech/product-management/wiki#session-7-product--product-managers-the-pm-awakens) (April 28)
 
 Class structure (default, with a few exceptions):
 
