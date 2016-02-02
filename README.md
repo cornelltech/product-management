@@ -30,7 +30,7 @@ Schedule of Sessions:
 * [Product + Design](https://github.com/cornelltech/product-management/wiki#session-3-product--design) (Feb 18)
 * [Product + Development I](https://github.com/cornelltech/product-management/wiki#session-4-product--development-part-i-a-new-code) (March 3) 
 * [Product + Development II](https://github.com/cornelltech/product-management/wiki#session-5-product--development-ii-the-code-strikes-back) (March 17)
-* [Product + Decisions](https://github.com/cornelltech/product-management/wiki#session-6-product--decisions) (April 14)
+* [Product + Devleopment III](https://github.com/cornelltech/product-management/wiki#session-6-product--development-iii) (April 14)
 * [Product + Product Managers](https://github.com/cornelltech/product-management/wiki#session-7-product--product-managers) (April 28)
 
 Class structure (default, with a few exceptions):
