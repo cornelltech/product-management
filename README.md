@@ -21,7 +21,7 @@ Grading are assigned according to the following:
 * Team artifacts (50%)
     * Based on timely completion and instructor review of artifacts in Artifact sheet
 * Individual participation (50%)
-    * Based on attendance and quizzes
+    * Based on attendance, exercises, and quizzes
 
 Schedule:
 
