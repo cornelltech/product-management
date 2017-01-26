@@ -38,3 +38,5 @@ Class structure:
 * 3p–3:10p, From the Field (10m)
 * 3:10p–3:55p, Lecture (45m)
 * 3:55p–4:15p, Exercise (20m)
+
+Also see [Studio Links](https://confluence.cornell.edu/pages/viewpage.action?spaceKey=studio&title=Studio+Links+and+Info) for Cornell Tech internal links.
