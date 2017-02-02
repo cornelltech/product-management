@@ -21,7 +21,8 @@ Grading are assigned according to the following:
 * Team artifacts (50%)
     * Based on timely completion and instructor review of artifacts in Artifact sheet
 * Individual participation (50%)
-    * Based on attendance, exercises, and quizzes
+    * Based on attendance and exercises each class
+    * Each exercise represents 5% of your grade, with the lowest grade ignored (which can be an incomplete grade if you were absent for an exercise)
 
 Schedule:
 
