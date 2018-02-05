@@ -30,9 +30,10 @@ Schedule:
 1. [Product + Data](https://github.com/cornelltech/product-management/wiki#session-2-product--data-attack-of-the-data) (Feb 15)
 1. [Product + Design](https://github.com/cornelltech/product-management/wiki#session-3-product--design-revenge-of-the-users) (Mar 1)
 1. [Product + Development I](https://github.com/cornelltech/product-management/wiki#session-4-product--development-part-i-a-new-product) (Mar 8) 
-1. [Product + Development II](https://github.com/cornelltech/product-management/wiki#session-5-product--development-ii-the-code-strikes-back) (March 15)
+1. [Product + Development II](https://github.com/cornelltech/product-management/wiki#session-5-product--development-ii-the-code-strikes-back) (March 15 NOTE: This class will most likely move due to overlapp with Studio Skills. If not, a make up lecture or video will be provided)
 1. [Product + Devleopment III](https://github.com/cornelltech/product-management/wiki#session-6-product--development-iii-return-of-the-product-manager) (March 28)
 1. [Product + Product Managers](https://github.com/cornelltech/product-management/wiki#session-7-product--product-managers-the-product-manager-awakens) (April 12)
+1. Open class (Aprill 26th)
 
 Class structure:
 
