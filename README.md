@@ -33,7 +33,6 @@ Schedule:
 1. [Product + Development II](https://github.com/cornelltech/product-management/wiki#session-5-product--development-ii-the-code-strikes-back) (Mar 29th)
 1. [Product + Devleopment III](https://github.com/cornelltech/product-management/wiki#session-6-product--development-iii-return-of-the-product-manager) (April 12)
 1. [Product + Product Managers](https://github.com/cornelltech/product-management/wiki#session-7-product--product-managers-the-product-manager-awakens) (April 26)
-1. Open class (Aprill 26th)
 
 Class structure:
 
