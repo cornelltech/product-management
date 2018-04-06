@@ -31,7 +31,7 @@ Schedule:
 1. [Product + Design](https://github.com/cornelltech/product-management/wiki#session-3-product--design-revenge-of-the-users) (Mar 1)
 1. [Product + Development I](https://github.com/cornelltech/product-management/wiki#session-4-product--development-part-i-a-new-product) (Mar 8) 
 1. [Product + Development II](https://github.com/cornelltech/product-management/wiki#session-5-product--development-ii-the-code-strikes-back) (Mar 29th)
-1. [Product + Devleopment III](https://github.com/cornelltech/product-management/wiki#session-6-product--development-iii-return-of-the-product-manager) (April 12)
+1. [Product + Devleopment III](https://github.com/cornelltech/product-management/wiki#session-6-product--development-iii-return-of-the-product-manager) (April 12) (in TATA J327)
 1. [Product + Product Managers](https://github.com/cornelltech/product-management/wiki#session-7-product--product-managers-the-product-manager-awakens) (April 26)
 
 Class structure:
