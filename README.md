@@ -26,18 +26,19 @@ Grading are assigned according to the following:
 
 Schedule:
 
-1. [Product + Management](https://github.com/cornelltech/product-management/wiki#session-1-product--management-the-phantom-product) (Feb 1)
-1. [Product + Data](https://github.com/cornelltech/product-management/wiki#session-2-product--data-attack-of-the-data) (Feb 15)
-1. [Product + Design](https://github.com/cornelltech/product-management/wiki#session-3-product--design-revenge-of-the-users) (Mar 1)
-1. [Product + Development I](https://github.com/cornelltech/product-management/wiki#session-4-product--development-part-i-a-new-product) (Mar 8) 
-1. [Product + Development II](https://github.com/cornelltech/product-management/wiki#session-5-product--development-ii-the-code-strikes-back) (Mar 29th)
-1. [Product + Devleopment III](https://github.com/cornelltech/product-management/wiki#session-6-product--development-iii-return-of-the-product-manager) (April 12) (in TATA J327)
-1. [Product + Product Managers](https://github.com/cornelltech/product-management/wiki#session-7-product--product-managers-the-product-manager-awakens) (April 26)
+1. [Product + Management](https://github.com/cornelltech/product-management/wiki#session-1-product--management-the-phantom-product) (February 14)
+1. [Product + Data](https://github.com/cornelltech/product-management/wiki#session-2-product--data-attack-of-the-data) (February 21)
+1. [Product + Design](https://github.com/cornelltech/product-management/wiki#session-3-product--design-revenge-of-the-users) (February 28)
+1. [Product + Development I](https://github.com/cornelltech/product-management/wiki#session-4-product--development-part-i-a-new-product) (March 7) 
+1. [Product + Development II](https://github.com/cornelltech/product-management/wiki#session-5-product--development-ii-the-code-strikes-back) (March 21)
+1. [Product + Devleopment III](https://github.com/cornelltech/product-management/wiki#session-6-product--development-iii-return-of-the-product-manager) (March 28)
+1. [Product + The World](https://github.com/cornelltech/product-management/wiki#session-7-product--the-world-the-product-manager-awakens) (April 18)
+1. [Product + Product Managers](https://github.com/cornelltech/product-management/wiki#session-7-product--product-managers-the-last-product-manager) (April 25)
 
 Class structure:
 
-* 445p–5p, Intro (15m)
-* 5-545, Lecture (45m)
-* 545p–630p, Exercise (45m)
+* 9:30 - 9:40 a.m.: Intro (10 min)
+* 9:40 - 10:25 a.m.: Lecture (45 min)
+* 10:25 - 10:45 a.m.: Exercise (20 min)
 
 Also see [Studio Links](https://confluence.cornell.edu/pages/viewpage.action?spaceKey=studio&title=Studio+Links+and+Info) for Cornell Tech internal links.
