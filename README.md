@@ -37,8 +37,6 @@ Schedule:
 
 Class structure:
 
-* 9:30 - 9:40 a.m.: Intro (10 min)
-* 9:40 - 10:25 a.m.: Lecture (45 min)
-* 10:25 - 10:45 a.m.: Exercise (20 min)
+* 9:30 - 10:45 a.m.: Lecture with exercise (75 min)
 
 Also see [Studio Links](https://confluence.cornell.edu/pages/viewpage.action?spaceKey=studio&title=Studio+Links+and+Info) for Cornell Tech internal links.
