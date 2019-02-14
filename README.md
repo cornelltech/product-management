@@ -27,8 +27,8 @@ Grading are assigned according to the following:
 Schedule:
 
 1. [Product + Management](https://github.com/cornelltech/product-management/wiki#session-1-product--management-the-phantom-product) (February 14)
-1. [Product + Data](https://github.com/cornelltech/product-management/wiki#session-2-product--data-attack-of-the-data) (February 21)
-1. [Product + Design](https://github.com/cornelltech/product-management/wiki#session-3-product--design-revenge-of-the-users) (February 28)
+1. [Product + Design](https://github.com/cornelltech/product-management/wiki#session-2-product--design-revenge-of-the-users) (February 21)
+1. [Product + Data](https://github.com/cornelltech/product-management/wiki#session-3-product--data-attack-of-the-data) (February 28)
 1. [Product + Development I](https://github.com/cornelltech/product-management/wiki#session-4-product--development-part-i-a-new-product) (March 7) 
 1. [Product + Development II](https://github.com/cornelltech/product-management/wiki#session-5-product--development-ii-the-code-strikes-back) (March 21)
 1. [Product + Development III](https://github.com/cornelltech/product-management/wiki#session-6-product--development-iii-return-of-the-product-manager) (March 28)
